@@ -6,13 +6,13 @@ import {BrowserRouter, Routes, Route} from 'react-router-dom'
 function App() {
     return (
         <div className='app'>
-
-                <Routes>
+            <BrowserRouter>
+                <Routes basename='/todo'>
                     <Route path="/" element={<Home />} />
                     <Route path="/main" element={<TodoContainer />} />
-                    {/* <Route path="*" element={<NotFound />} /> */}
+                    <Route path="*" element={<NotFound />} />
                 </Routes>
-
+            </BrowserRouter>
         </div>
   );
 }
