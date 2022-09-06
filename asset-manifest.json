@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/todo/home/static/css/main.ede3111f.css",
-    "main.js": "/todo/home/static/js/main.5eaf7b90.js",
-    "static/media/nes_controller.webp": "/todo/home/static/media/nes_controller.6a89bdf5a3112082ad9c.webp",
-    "index.html": "/todo/home/index.html",
-    "main.ede3111f.css.map": "/todo/home/static/css/main.ede3111f.css.map",
-    "main.5eaf7b90.js.map": "/todo/home/static/js/main.5eaf7b90.js.map"
+    "main.css": "/todo/static/css/main.ede3111f.css",
+    "main.js": "/todo/static/js/main.e89425f5.js",
+    "static/media/nes_controller.webp": "/todo/static/media/nes_controller.6a89bdf5a3112082ad9c.webp",
+    "index.html": "/todo/index.html",
+    "main.ede3111f.css.map": "/todo/static/css/main.ede3111f.css.map",
+    "main.e89425f5.js.map": "/todo/static/js/main.e89425f5.js.map"
   },
   "entrypoints": [
     "static/css/main.ede3111f.css",
-    "static/js/main.5eaf7b90.js"
+    "static/js/main.e89425f5.js"
   ]
 }
