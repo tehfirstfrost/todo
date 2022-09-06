@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/todo/static/css/main.ede3111f.css",
-    "main.js": "/todo/static/js/main.f1a1c458.js",
+    "main.js": "/todo/static/js/main.40274275.js",
     "static/media/nes_controller.webp": "/todo/static/media/nes_controller.6a89bdf5a3112082ad9c.webp",
     "index.html": "/todo/index.html",
     "main.ede3111f.css.map": "/todo/static/css/main.ede3111f.css.map",
-    "main.f1a1c458.js.map": "/todo/static/js/main.f1a1c458.js.map"
+    "main.40274275.js.map": "/todo/static/js/main.40274275.js.map"
   },
   "entrypoints": [
     "static/css/main.ede3111f.css",
-    "static/js/main.f1a1c458.js"
+    "static/js/main.40274275.js"
   ]
 }
